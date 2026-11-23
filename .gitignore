@@ -1,0 +1,11 @@
+# Local Vivado and build output
+/.Xil/
+/course_output/
+*.jou
+*.log
+*.str
+*.wdb
+*.xpr
+*.dmp
+usage_statistics_webtalk.*
+__pycache__/
